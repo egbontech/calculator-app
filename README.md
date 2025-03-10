@@ -1,4 +1,4 @@
-React Calculator App
+# React Calculator App
 
 This is a simple yet functional calculator built using React, demonstrating the use of React state management, event handling, and conditional styling. This project is ideal for beginners looking to strengthen their React skills.
 
